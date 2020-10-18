@@ -359,10 +359,10 @@ h1 { margin: 0; }
   {
     padding: 10px 0 10px 0;
   }
-#about .col-md-5 img
-  {
-    width: 200px;
-    height: 100px;
+#about img
+  {    
+    padding: 12px 0 0 0;
+    margin-top: 20px;
   }
 #about p
   {
